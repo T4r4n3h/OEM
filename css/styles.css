@@ -1,0 +1,9 @@
+.header {
+/* border: black 1px ; */
+background-color: lightblue;
+
+}
+.body{
+    height: 80vh;
+    background-color: yellow;
+}
